@@ -30,7 +30,6 @@ A role-based admin dashboard built with React and Tailwind CSS, featuring full C
 - 🌙 **Dark Mode** — System preference detection + manual toggle, persisted in localStorage
 - 🔔 **Toast Notifications** — Success/error feedback on all actions
 - 📱 **Responsive Design** — Mobile sidebar overlay + desktop collapsible sidebar
-- ⚡ **Skeleton Loaders** — Animated loading states instead of plain text
 - 🎨 **Status Badges** — Color-coded Active/Inactive indicators
 
 ---
